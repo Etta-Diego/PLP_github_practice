@@ -5,5 +5,7 @@
 - apply what you learned about git and github (updating changes, committing adding files and stuff)
 
 All necessary icons (images are under images folder), to use an image just say
+```html
  <object data="images/home.svg" width="20" type=""></object>
+```
  home.svg can be replaced by any image that's available
